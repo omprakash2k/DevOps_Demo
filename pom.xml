@@ -15,4 +15,14 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+    <snapshotRepository>
+      <id>devops_snapshot</id>
+      <url>http://ec2-54-172-131-145.compute-1.amazonaws.com:8081/nexus/content/repositories/devops_snapshot</url>
+    </snapshotRepository>
+    <repository>
+      <id>DevOps-release</id>
+      <url>http://ec2-54-172-131-145.compute-1.amazonaws.com:8081/nexus/content/repositories/DevOps-release</url>
+    </repository>
+  </distributionManagement>
 </project>
