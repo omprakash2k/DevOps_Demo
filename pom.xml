@@ -22,7 +22,7 @@
     </snapshotRepository>
     <repository>
       <id>DevOps-release</id>
-      <url>http://ip-172-31-86-96.ec2.internal:8081/nexus/content/repositories/DevOps-release</url>
+      <url>http://http://ip-172-31-86-96.ec2.internal:8081/nexus/content/repositories/DevOps-release</url>
     </repository>
   </distributionManagement>
 </project>
