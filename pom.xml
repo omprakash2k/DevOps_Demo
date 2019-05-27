@@ -18,11 +18,11 @@
   <distributionManagement>
     <snapshotRepository>
       <id>devops_snapshot</id>
-      <url>http://http://ec2-3-82-243-44.compute-1.amazonaws.com:8081/nexus/content/repositories/devops_snapshot</url>
+      <url>http://ec2-3-82-243-44.compute-1.amazonaws.com:8081/nexus/content/repositories/devops_snapshot</url>
     </snapshotRepository>
     <repository>
       <id>DevOps-release</id>
-      <url>http://http://ec2-3-82-243-44.compute-1.amazonaws.com:8081/nexuss/content/repositories/DevOps-release</url>
+      <url>http://ec2-3-82-243-44.compute-1.amazonaws.com:8081/nexuss/content/repositories/DevOps-release</url>
     </repository>
   </distributionManagement>
 </project>
